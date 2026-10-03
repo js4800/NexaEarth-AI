@@ -1,2 +1,2 @@
 # NexaEarth-AI
-Survey Platform
+Survey Platform.
